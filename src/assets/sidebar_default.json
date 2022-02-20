@@ -1,0 +1,468 @@
+{
+  "categories": [
+    {
+      "id": 100,
+      "name": "System",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Date and Time"
+        },
+        {
+          "id": 102,
+          "name": "Conditions"
+        },
+        {
+          "id": 103,
+          "name": "Converter"
+        },
+        {
+          "id": 104,
+          "name": "Loops"
+        },
+        {
+          "id": 105,
+          "name": "HMI"
+        },
+        {
+          "id": 106,
+          "name": "Workflow"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "2D Vision",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "ARToolKit"
+        },
+        {
+          "id": 202,
+          "name": "Calibration"
+        },
+        {
+          "id": 203,
+          "name": "Detect Markers"
+        },
+        {
+          "id": 204,
+          "name": "Drawing"
+        },
+        {
+          "id": 205,
+          "name": "Feature Detection"
+        },
+        {
+          "id": 206,
+          "name": "Histogram"
+        },
+        {
+          "id": 207,
+          "name": "Image Filtering"
+        },
+        {
+          "id": 208,
+          "name": "Image Transformations"
+        },
+        {
+          "id": 209,
+          "name": "OCR"
+        },
+        {
+          "id": 210,
+          "name": "Ransac"
+        },
+        {
+          "id": 211,
+          "name": "Reading"
+        },
+        {
+          "id": 212,
+          "name": "Segmentation"
+        },
+        {
+          "id": 213,
+          "name": "Shape Analysis"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Communications",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "EthernetIP"
+        },
+        {
+          "id": 302,
+          "name": "Host Link"
+        },
+        {
+          "id": 303,
+          "name": "Modbus"
+        },
+        {
+          "id": 304,
+          "name": "OPCUA"
+        },
+        {
+          "id": 305,
+          "name": "Serial Port"
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "name": "Hardwares",
+      "subcategories": [
+        {
+          "id": 401,
+          "name": "Capture"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "name": "File",
+      "subcategories": [
+        {
+          "id": 501,
+          "name": "File System"
+        },
+        {
+          "id": 502,
+          "name": "Image I/O"
+        },
+        {
+          "id": 503,
+          "name": "Parser"
+        },
+        {
+          "id": 504,
+          "name": "Gerber"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Operations",
+      "subcategories": [
+        {
+          "id": 601,
+          "name": "Image"
+        },
+        {
+          "id": 602,
+          "name": "Math"
+        },
+        {
+          "id": 603,
+          "name": "Measurements"
+        },
+        {
+          "id": 604,
+          "name": "Moments"
+        },
+        {
+          "id": 605,
+          "name": "String"
+        },
+        {
+          "id": 606,
+          "name": "Object"
+        },
+        {
+          "id": 607,
+          "name": "Vector"
+        }
+      ]
+    }
+  ],
+  "configsSideBar": [
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 101,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 102,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 103,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 104,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 105,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 201,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 202,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 203,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 204,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 205,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 206,
+      "subcategory": 106,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 201,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 202,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 203,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 204,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 205,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 206,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 207,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 208,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 209,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 210,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 211,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 212,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 213,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 301,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 302,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 303,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 304,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 305,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 401,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 501,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 502,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 503,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 504,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 601,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 602,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 603,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 604,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 102,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 103,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 104,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 105,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 106,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 107,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 108,
+      "subcategory": 605,
+      "color": "violet"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 606,
+      "color": "gray-300"
+    },
+    {
+      "type": "tool",
+      "tag": 991,
+      "subcategory": 607,
+      "color": "gray-300"
+    }
+  ]
+}
