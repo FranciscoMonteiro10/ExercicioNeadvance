@@ -4,24 +4,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+Run `npm install` to install the dependencies
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## First Exercise 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Click on the "New project" button to display the modal with the required design and functionalities (used Angular & PrimeNG).
 
-## Build
+## Second Exercise
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Open the browser console and check the required array with the matching information regarding categories and subcategories as required.
 
-## Running unit tests
+## Third Exercise
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Please introduce any information in the required fields on the modal.
+After pressing Create you should see a JSON string being displayed on the webpage with the required information. 
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
